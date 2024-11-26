@@ -319,4 +319,3 @@ print(f"Register value: {hex(register_value)}")
 
 register_value = mcp.readRegister(REGISTER.MCP_EFLG)
 print(f"Register value: {hex(register_value)}")
-
